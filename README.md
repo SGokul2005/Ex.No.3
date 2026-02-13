@@ -52,7 +52,12 @@ Quieter Operation and Improved Performance: They provide a quieter driving exper
 # 2 Tabular Format Prompting:
 a.image
 
+<img width="929" height="566" alt="Screenshot 2026-02-13 081242" src="https://github.com/user-attachments/assets/60627b29-38c7-4050-af8f-b369ee726123" />
+
+
 b.image
+
+<img width="1007" height="437" alt="Screenshot 2026-02-13 081257" src="https://github.com/user-attachments/assets/63c2826e-0c7b-448a-81d1-8c10b6f617df" />
 
 # 3 Preceding Question Prompting:
 a.Climate change is a global concern because its causes, impacts, and solutions transcend national borders. Greenhouse gas emissions anywhere affect the climate everywhere, leading to worldwide consequences like:
